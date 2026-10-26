@@ -1,4 +1,4 @@
-# Hola, soy [Tu nombre] 
+# Hola, soy José Ledezma 
 
 Estudiante de **Ingeniería de Sistemas de Información Gerencial** en la Universidad Tecnológica de Panamá (UTP). Me interesa el **desarrollo de software** y el **análisis de datos**.
 

@@ -2,9 +2,9 @@
 
 Estudiante de **Ingeniería de Sistemas de Información Gerencial** en la Universidad Tecnológica de Panamá (UTP). Me interesa el **desarrollo de software** y el **análisis de datos**.
 
- [Ciudad], Panamá
- [correo@ejemplo.com]
- [LinkedIn](https://linkedin.com/in/usuario)
+ Ciudad de Panamá, Panamá
+ ledezmajose1212@gmail.com
+ [LinkedIn](linkedin.com/in/josé-ledezma-muñoz)
 
 <!-- Añade o quita según lo que uses: Python, SQL, JavaScript, HTML, CSS, Power BI... -->
 
